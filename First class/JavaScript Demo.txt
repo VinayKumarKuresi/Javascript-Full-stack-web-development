@@ -1,0 +1,86 @@
+
+1) JavaScript :
+	1) Core JavaScript
+	2) Advanced JavaScript
+
+2) JavaScript :
+	Front End
+
+3) Flight Example :
+	Boarding :
+		1) Checking baggage
+		2) Immigration check
+		3) Security check
+		4) Boarding
+		5) Take off
+
+	Landing :
+		1) Landing
+		2) Immigration check
+		3) Collect baggage
+		4) Leave the airport
+
+4) What is Programming :
+	1) the set of instruction given to the computer is called Program
+	2) Act of creating of program is called programming
+
+5) Problem Solving :
+		
+	1) Input
+		eg : carx -> 5, cary -> 6
+	2) Process[computation]{Algorithm}:
+	3) Output
+
+	Solution :
+	   Input :
+		at_the_start = 100
+		take_off = 40
+		landing_planes = 60
+
+	   Process(Solution):
+		current_no_of_flights = at_the_start - take_off  + landing_planes 
+			              = 100 - 40 + 60
+				      = 120
+
+           Output :
+		display(current_no_of_flights)
+	
+		
+6) Representation of Algorithm :
+	1) Pseudo-code -> representation of algorithm in plain english
+	2) Flow-chat -> representation of algorithm in diagramatic form.
+
+
+7) Variable :
+	Variable is nothing a container which stores a value and hold it
+   = :
+	Assignment Operator
+
+8) Operators :
+	1) Arithematic Operator
+	2) Relational Operator
+	3) Logical Operator
+
+		1) Arithematic Operator :
+			+	Add
+			-	sub
+			*	mul
+			/	div
+			%	modulus(remainder)
+
+		2) Relational Operator :
+			== 	Checking(Whether two values are equal or not)
+			< 	less than
+			> 	greater than
+			<= 	less than or equal to
+			>= 	gerater than or equal to
+
+9)  Flow of Control :
+		1) Selection sructures
+		2) Repetitive structures
+
+		1) Selection sructures(condition defining) :
+			eg : if runway == "free":
+				display("you can land")
+			     else :
+				display("you can circle in  the air")
